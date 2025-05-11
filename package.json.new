@@ -1,0 +1,23 @@
+{
+  "name": "com.ludo.eventbus",
+  "version": "1.0.0",
+  "displayName": "Ludo EventBus",
+  "description": "A lightweight, type-safe event system for Unity games with priority-based event handling and diagnostics.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/sponticelli/Ludo-EventBus/blob/main/Documentation/README.md",
+  "changelogUrl": "https://github.com/sponticelli/Ludo-EventBus/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sponticelli/Ludo-EventBus/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "ludo",
+    "event",
+    "eventbus",
+    "messaging",
+    "pubsub"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "url": "https://github.com/sponticelli"
+  }
+}
